@@ -1,0 +1,26 @@
+{
+  "name": "hexo-generator-directory-category",
+  "version": "0.1.0",
+  "description": "Category generator for directory pages in Hexo.",
+  "main": "index",
+  "scripts": {
+  },
+  "directories": {
+    "lib": "./lib"
+  },
+  "repository": "PageDragonDev/hexo-generator-directory-category",
+  "homepage": "https://hexo.io/",
+  "keywords": [
+    "hexo",
+    "generator",
+    "category"
+  ],
+  "author": "Jerry Holmes <jholmes@pagedragon.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "hexo": "^3.1.1"
+  },
+  "dependencies": {
+
+  }
+}

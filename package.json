@@ -3,8 +3,7 @@
   "version": "0.1.0",
   "description": "Category generator for directory pages in Hexo.",
   "main": "index",
-  "scripts": {
-  },
+  "scripts": {},
   "directories": {
     "lib": "./lib"
   },
@@ -21,6 +20,6 @@
     "hexo": "^3.1.1"
   },
   "dependencies": {
-
+    "lodash": "^4.17.4"
   }
 }

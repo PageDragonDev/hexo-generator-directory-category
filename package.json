@@ -1,6 +1,6 @@
 {
   "name": "hexo-generator-directory-category",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "Category generator for directory pages in Hexo.",
   "main": "index",
   "scripts": {},
